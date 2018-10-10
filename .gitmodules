@@ -1,3 +1,7 @@
 [submodule "ADC"]
 	path = ADC
 	url = https://github.com/kuzmin-ilya/ratwheel
+[submodule "ADC_firmware"]
+	path = ADC_firmware
+	url = https://github.com/pmamonov/stm32f103c8t6
+	branch = ratwheel
