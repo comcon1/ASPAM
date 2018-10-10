@@ -1,0 +1,3 @@
+[submodule "ADC"]
+	path = ADC
+	url = https://github.com/kuzmin-ilya/ratwheel
