@@ -8,3 +8,6 @@
 [submodule "wheelbox"]
 	path = wheelbox
 	url = ../ASPAM_wheelbox
+[submodule "webinterface"]
+	path = webinterface
+	url = ../ASPAM_webinterface
