@@ -8,13 +8,15 @@ The project include three main part:
 
 All these part develops independently and, thus, are decorated as submodules.
 
-# Submodules
+# Submodules (parts of the project)
 
-* **ADC** - the electronic circuit of the ADC board
-
-* **ADC_firmware** - firmware for SMT32 mounted to the ADC board
+* **TCC** - the electronic circuit of the Turn Counter Controller (TCC) board
 
 * **wheelbox** - mechanical drawings for manufacturing rat box and the wheel
+
+# Submodules (independent projects)
+
+* **TCC_firmware** - firmware for SMT32 mounted to the TCC board
 
 * **webinterface** - WSGI web interface for plotting rat running data
 
@@ -23,3 +25,6 @@ All these part develops independently and, thus, are decorated as submodules.
 The project "Automated Spontaneous Physical Activity Monitoring" 
 (A. Nesterenko, I. Kuzmin, P. Mamonov)  
 is released under  license CC BY-SA 3.0.
+
+Submodules listed as independent projects are not part of this project and 
+are released under their own licenses.
