@@ -7,7 +7,7 @@
 	branch = ratwheel
 [submodule "wheelbox"]
 	path = wheelbox
-	url = ../ASPAM_wheelbox
+	url = https://github.com/comcon1/ASPAM_wheelbox
 [submodule "webinterface"]
 	path = webinterface
-	url = ../ASPAM_webinterface
+	url = https://github.com/comcon1/ASPAM_webinterface
