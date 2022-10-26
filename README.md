@@ -23,7 +23,7 @@ All these part develops independently and, thus, are decorated as submodules.
 # Licensing 
 
 The project "Automated Spontaneous Physical Activity Monitoring" 
-(A. Nesterenko, I. Kuzmin, P. Mamonov)  
+(A. Nesterenko @comcon1, I. Kuzmin @kuzmin-ilya, P. Mamonov @pmamonov)  
 is released under  license CC BY-SA 3.0.
 
 Submodules listed as independent projects are not part of this project and 
